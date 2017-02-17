@@ -14,5 +14,6 @@ MyDlg::MyDlg() {
 		&MyClass::longRunningFunction 	  
 	);
 	
-	//result.waitForFinished();
+	//result1.waitForFinished();
+	//result2.waitForFinished();
 }
